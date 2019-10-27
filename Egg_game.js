@@ -41,6 +41,7 @@ function startScreen(){
 		text('EGG GAME', width / 2 , height / 2 )
         textSize(20);
 		text('click to start :]', width / 2 , height / 2 + 40 );
+  text('Rules: click once egg goes in basket', width / 2, height / 2 + 60);
 		reset();
   
   
